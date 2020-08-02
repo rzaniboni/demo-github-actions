@@ -4,4 +4,4 @@ author: 'Roberto Zaniboni <zaniboni@gmail.com>'
 
 runs:
   using: 'node12'
-  main: "indes.js"
+  main: "index.js"
